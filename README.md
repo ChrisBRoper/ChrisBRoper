@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Chris an <a href="https://www.linkedin.com/in/chris-roper-156a2185/">IT</a>!</h1>
 
-<!--
-**ChrisBRoper/ChrisBRoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+-<b>osTicket (Help Desk Ticketing System)</b>
+    -[osTicket: Prerequisites and Installation] ()
+    -[osTicket: Oost-Installation Configuration] ()
+    -[osTicket: Ticket Lifecycle Examples] ()
+  - <b>Microsoft Azure</b>
+    -[Configuriing on-premises Active Directory within Azure Vms]()
+    -[Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   </h2> Connect with me:</h2> 
