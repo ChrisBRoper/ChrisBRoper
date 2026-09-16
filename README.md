@@ -4,10 +4,10 @@
 
 -<b>osTicket (Help Desk Ticketing System)</b>
     -[osTicket: Prerequisites and Installation] ()
-    -[osTicket: Oost-Installation Configuration] ()
+    -[osTicket: ost-Installation Configuration] ()
     -[osTicket: Ticket Lifecycle Examples] ()
   - <b>Microsoft Azure</b>
-    -[Configuriing on-premises Active Directory within Azure Vms]()
-    -[Network Security Groups (NSGs) and Inspecting Network Protocols]()
+    -[Configuriing on-premises Active Directory within Azure Vms] ()
+    -[Network Security Groups (NSGs) and Inspecting Network Protocols] ()
 
    </h2> Connect with me:</h2> 
