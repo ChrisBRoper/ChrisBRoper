@@ -12,4 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-"[https://www.linkedin.com/in/chris-roper](https://www.linkedin.com/in/chris-roper-156a2185/)"
+[<img align="left" alt="chris-roper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/chris-roper-156a2185/
